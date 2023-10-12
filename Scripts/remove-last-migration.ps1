@@ -1,0 +1,1 @@
+dotnet ef migrations remove -c RestaurantsContext -p ..\Restaurants.Persistence\ -s ..\Restaurants.API\

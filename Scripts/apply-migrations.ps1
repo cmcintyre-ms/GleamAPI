@@ -1,0 +1,1 @@
+dotnet ef database update -c DataContext -p ..\GleamAPI.Data\ -s ..\GleamAPI\
